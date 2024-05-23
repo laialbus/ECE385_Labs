@@ -7,7 +7,7 @@ In the hardware, a frame buffer is used to ensure a smooth and detailed gameplay
 The three least significant bits are used to store the palette code that would be used to decode the corresponding sprite's palette that outputs 32-bit colors. The other 5 bits are used to decode which sprite is being drawn. The disadvantage of this organization is that each sprite can only have 8 colors. I realized too late that allocating 5 bits to represent the sprites was unnecessary for the game I was making and the time I had. 
 
 ### Software
-
+* mention project_config.h -> USB_NAK_LIMIT
 
 ## Reference
 felis(Oleg Mazurov) (10 May 2009) lightweight-usb-host. https://github.com/felis/lightweight-usb-host
