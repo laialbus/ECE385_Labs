@@ -10,3 +10,5 @@ http://www.pctestinstruments.com/downloads.htm
 
 For hardware implementation information go to http://www.circuitsathome.com
 
+## Note
+This description was automatically added when the driver source code was uploaded. This is the description from the repository of the referenced code, which was cited in final_project_1.1/README.
